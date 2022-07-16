@@ -1,9 +1,18 @@
-.about{
-    display: flex;
+.about {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
     margin: auto;
     width: 75%;
-    background-color:  rgb(37, 37, 37);
+    background-color: rgb(37, 37, 37);
     color: white;
     margin-top: 15px;
     border-radius: 15px;
+}
+
+@media screen and (max-width : 576px) {
+    .about {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
 }
