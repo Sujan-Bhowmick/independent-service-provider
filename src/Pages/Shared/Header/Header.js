@@ -38,7 +38,6 @@ const Header = () => {
                         </Nav>
                         <Nav>
                             <Nav.Link as={Link} to="about">About</Nav.Link>
-
                             {
                                 user ?
                                     <button onClick={handleSignOut} className='btn btn-dark '>Sign out</button>
@@ -47,7 +46,6 @@ const Header = () => {
                                         Login
                                     </Nav.Link>
                             }
-
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

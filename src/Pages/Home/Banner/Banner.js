@@ -8,9 +8,8 @@ const Banner = () => {
         <div>
             <img className='img-fluid' src={banner} alt="" />
             <Carousel.Caption>
-                <h3 className='banner'><span style={{color: 'goldenrod'}}>Take Your Fitness </span>
-                   <span className='text-danger'>To</span> The <span className='text-primary'>Next</span> Level</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h1 className='banner fw-bold'><span style={{color: 'goldenrod'}}>Take Your Fitness </span>
+                 <span> To The Next Level</span></h1>
             </Carousel.Caption>
         </div>
     );
