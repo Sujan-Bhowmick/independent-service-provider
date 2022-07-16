@@ -1,0 +1,23 @@
+[
+    {
+      "id": "62cae0d2739f6ffbf6cdaf9c",
+      "image": "./images/online.jpg",
+      "price": 2681,
+      "name": "Online Coaching",
+      "description": "IF YOU'RE WILLING TO LET ME HELP YOU, I CAN TAKE YOU ON A JOURNEY WHICH WILL UNDOUBTEDLY SHAPE YOUR HEALTH AND PHYSIQUE, SO WHEN YOU LOOK IN A MIRROR, YOU'LL SMILE FROM EAR TO EAR.\r\n"
+    },
+    {
+      "id": "62cae0d256414cff86d04ad0",
+      "image": "./images/personal.jpg",
+      "price": 1953,
+      "name": "Personal Training",
+      "description": "You can work with me individually or in a small group (up to 4 people per group) with like-minded people. The goal of these services is to help you acquire the knowledge, learn the skills and create habits that will equip you for life..\r\n"
+    },
+    {
+      "id": "62cae0d21b09b03316fa23ea",
+      "image": "./images/prenatal.jpg",
+      "price": 1831,
+      "name": "Prenatal Personal Training",
+      "description": "Have you just found out that you're expecting and wonder how you should tweak your fitness regime to best take care of your growing baby? Individual personal training takes the guess work out of the process. I will teach you which exercises to avoid and which ones you can keep doing safely during pregnancy. \r\n"
+    }
+  ]

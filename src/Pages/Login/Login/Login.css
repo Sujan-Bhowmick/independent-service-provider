@@ -1,0 +1,13 @@
+.login{
+    background-color:rgb(37, 37, 37);
+      color: white;
+      border-radius: 10px;
+      margin-bottom: 15px;
+}
+.login button:not([type = reset]){
+    border: 1px solid gray;
+}
+.login button:hover{
+    background-color: black;
+    color: white;
+}

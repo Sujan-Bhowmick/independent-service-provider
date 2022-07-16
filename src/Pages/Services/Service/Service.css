@@ -1,0 +1,15 @@
+.image{
+    border-radius: 5px;
+}
+.style{
+    background-color: rgb(35, 30, 30);
+    margin-top: 6px;
+    border-radius: 5px;
+    color: white
+   
+}
+
+.style button:hover{
+    background-color: black;
+    color: white;
+}

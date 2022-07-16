@@ -1,0 +1,9 @@
+.about{
+    display: flex;
+    margin: auto;
+    width: 75%;
+    background-color:  rgb(37, 37, 37);
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px;
+}

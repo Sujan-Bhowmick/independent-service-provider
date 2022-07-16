@@ -1,0 +1,24 @@
+.blogs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    margin-top: 15px;
+}
+.blogs p{
+    margin-top: 15px;
+}
+.blogs div{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 4px 4px gray;
+    background-color: rgb(37, 37, 37);
+    color: white
+}
+
+@media screen and (max-width : 576px){
+    .blogs{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
